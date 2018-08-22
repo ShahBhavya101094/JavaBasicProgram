@@ -1,3 +1,7 @@
+/*
+	Date : 22/8/18
+	Developer : Harsh, Abhishek, Akshav
+*/
 //mainclass
 package beta_pkg; //create new package
 import alpha_pkg.*; //alpha_pkg import
